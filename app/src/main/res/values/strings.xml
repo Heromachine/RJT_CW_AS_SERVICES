@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RJT_CW_SERVICES</string>
+
+    <string-array name="background_color">
+        <item>Red</item>
+        <item>White</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
